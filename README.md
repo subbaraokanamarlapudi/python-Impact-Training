@@ -10,3 +10,4 @@
 <br>(III) Jumping statements.
 
 * Strings
+* List
