@@ -11,3 +11,4 @@
 
 * Strings
 * List
+* Tuple
