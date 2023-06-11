@@ -12,3 +12,4 @@
 * Strings
 * List
 * Tuple
+* Dictionary
