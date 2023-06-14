@@ -14,3 +14,4 @@
 * Tuple
 * Dictionary
 * Set
+* Functions
