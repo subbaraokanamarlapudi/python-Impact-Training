@@ -16,3 +16,4 @@
 * Set
 * Functions
 * File handling
+* Error handling
