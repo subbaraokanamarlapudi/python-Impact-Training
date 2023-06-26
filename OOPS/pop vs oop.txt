@@ -1,0 +1,20 @@
+POP
+
+* It is a procedural oriented language.
+* Programs are divided into functions.
+* Top-down approach.
+* No access specifiers.
+* No data security.
+* No overloading concepts.
+EX: C , VB script , forton , pascal.
+
+OOP
+
+* It is a object oriented programming.
+* Programs are divided into objects.
+* Bottom-up approach.
+* Provide access specifiers.
+* Data security.
+* functions overloading , method overriding , operator overloading.
+
+EX : Java , c++ , python
