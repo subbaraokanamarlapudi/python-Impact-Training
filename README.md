@@ -18,6 +18,8 @@
 * File handling
 * Error handling
 
+* Patterns.
+
 * OOPC 
 <br> Object oriented Programming
 <br> Class and objects.
