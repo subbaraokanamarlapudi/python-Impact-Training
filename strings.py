@@ -23,6 +23,15 @@ Methods:
 * find()
 * index()
 
+# These are the functions of a string
+* isalnum()
+* isalpha()
+* isdigit()
+* islower()
+* isupper()
+* istitle()
+* isspace()
+
 '''
 
 # Declaring strings
